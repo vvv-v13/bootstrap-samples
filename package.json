@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-samples",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Vitalii Pan'ko",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "serve": "^1.4.0"
+  }
+}
